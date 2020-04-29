@@ -71,7 +71,7 @@ Upload Shell script usage:
 
 .. code-block:: bash
 
-    wetranfer-upload -h
+    wetransfer-upload -h
 
     usage: wetransfer-upload [-h] [-b] [-u USERNAME] [-p PASSWORD] [-e EXPIRE]
                          [-c CHANNEL] [-r [RECEIVER [RECEIVER ...]]]
@@ -107,6 +107,6 @@ Download shell script usage:
 
 .. code-block:: bash
 
-    wetranfer-download -u http://we.tl/XV4MmuqPRd
+    wetransfer-download -u http://we.tl/XV4MmuqPRd
 
 
